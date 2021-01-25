@@ -10,7 +10,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		int R = Integer.parseInt(reader.readLine());
-		System.out.printf("%.6f\n%.6f", Math.PI*Math.pow(R, 2), 2*Math.pow(R, 2));
+		System.out.printf("%.6f\n%.6f", Math.PI * Math.pow(R, 2), 2 * Math.pow(R, 2));
 		
 	}
 
